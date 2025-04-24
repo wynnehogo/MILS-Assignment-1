@@ -1,9 +1,10 @@
 # MILS-Assignment-1
 # Dataset 
 Dataset URL: https://cchsu.info/files/images.zip
-<br>
+<br><br>
 The mini-ImageNet dataset is a smaller version of the ImageNet dataset, created to reduce the computational
-complexity while retaining the essential properties of the larger dataset. It consists of 65,000 images from 50 different classes of animals.
+complexity while retaining the essential properties of the larger dataset. It consists of 65,000 images from 50 different classes of animals. 
+The dataset is divided into 3 set, training, validation and testing.
 
 # Task A: Designing a Convolution Module for Variable Input Channels
 In order to reproduce the experiment for task A, run the following codes:
@@ -30,6 +31,9 @@ In order to reproduce the experiment for task B, run the following codes:
 2 Light GAP Net.py (Second Model)
 <br>
 2 Resnet34 Baseline.py (Baseline)
+<br><br>
+All codes are Python scripts. 
+
 
 
 
